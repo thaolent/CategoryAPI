@@ -20,7 +20,8 @@ app.MapGet("/categories", () =>
     {
         new Category { ID = 1, Name = "Vinamilk" },
         new Category { ID = 2, Name = "TH True Milk" },
-        new Category { ID = 3, Name = "Nutifood" }
+        new Category { ID = 3, Name = "Nutifood" },
+        new Category { ID = 4, Name = "Dalat Milk" }
     };
 
     return categories;
