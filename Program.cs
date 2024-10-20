@@ -6,13 +6,6 @@ using CategoryAPI;
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-// Category class definition can be added here or in a separate file
-// public class Category
-// {
-//     public int ID { get; set; }
-//     public string Name { get; set; }
-// }
-
 // Endpoint to get hardcoded category data
 app.MapGet("/categories", () =>
 {
