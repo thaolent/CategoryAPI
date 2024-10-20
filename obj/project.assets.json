@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\CategoryAPI\\CategoryAPI.csproj",
+      "projectUniqueName": "d:\\.NET\\CategoryTemp\\CategoryAPI\\CategoryAPI.csproj",
       "projectName": "CategoryAPI",
-      "projectPath": "D:\\.NET\\CategoryAPI\\CategoryAPI.csproj",
+      "projectPath": "d:\\.NET\\CategoryTemp\\CategoryAPI\\CategoryAPI.csproj",
       "packagesPath": "C:\\Users\\thaolent.HARVEYNASH\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\CategoryAPI\\obj\\",
+      "outputPath": "d:\\.NET\\CategoryTemp\\CategoryAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

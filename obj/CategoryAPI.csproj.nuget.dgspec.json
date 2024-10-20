@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\CategoryAPI\\CategoryAPI.csproj": {}
+    "D:\\.NET\\CategoryTemp\\CategoryAPI\\CategoryAPI.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\CategoryAPI\\CategoryAPI.csproj": {
+    "D:\\.NET\\CategoryTemp\\CategoryAPI\\CategoryAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\CategoryAPI\\CategoryAPI.csproj",
+        "projectUniqueName": "D:\\.NET\\CategoryTemp\\CategoryAPI\\CategoryAPI.csproj",
         "projectName": "CategoryAPI",
-        "projectPath": "D:\\.NET\\CategoryAPI\\CategoryAPI.csproj",
+        "projectPath": "D:\\.NET\\CategoryTemp\\CategoryAPI\\CategoryAPI.csproj",
         "packagesPath": "C:\\Users\\thaolent.HARVEYNASH\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\CategoryAPI\\obj\\",
+        "outputPath": "D:\\.NET\\CategoryTemp\\CategoryAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
